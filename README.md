@@ -13,7 +13,13 @@ How to run the script:
       
     eg. cd /Downloads/ 
 
-2.Start the script
+2.Unzip the folder 
+
+3.Go into unzip directory of Mangekyou-Scanner
+
+    eg. cd /Downloads/Mangekyou-Sanner
+
+4.Start the script
  
     eg. ./Mangekyou-Scanner.py
 
